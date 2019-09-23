@@ -3456,7 +3456,7 @@ input, select, textarea {
 		position: relative;
 		text-align: left;
 		overflow-x: hidden;
-		background-color: #F7F7FF;
+		background-color: #fbfbf9;
 
 	}
 
@@ -8603,3 +8603,28 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+		.sect1 {
+			background-color: #2e2e4f25;
+		}
+
+		.sect2 {
+			background-color: #78b90015;
+		}
+
+		.sect3 {
+			background-color: #ffeac223;
+		}
+
+		.techs {
+			background-color: white;
+			height: 30px;
+			width: 70%;
+			border-radius: 10px;
+			padding-left: 1%;
+			word-spacing: .5rem;
+		}
+
+		.call {
+			background-color: #e91e63;
+		}
